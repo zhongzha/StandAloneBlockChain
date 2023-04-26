@@ -1,4 +1,4 @@
-# StandAloneBlockChain
+# Blockchain Implementation with a Remote Client in Java
 This project illustrates the tamper-evident design of blockchain technology through the implementation of a blockchain and a remote client interacts with a blockchain API using JSON messages over TCP sockets. The blockchain is implemented in Java and is capable of transferring "dscoin" between players.
 
 ## Getting Started
@@ -8,6 +8,7 @@ To get started with the project
 
 ## Usage
 The blockchain is located on the server, while the client drives the menu-driven interaction and communicates with the server on the backend. Here are the menu options available:
+
 0. View basic blockchain status.
 1. Add a transaction to the blockchain.
 2. Verify the blockchain.
