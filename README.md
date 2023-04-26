@@ -19,7 +19,7 @@ The blockchain is located on the server, while the client drives the menu-driven
 
 ## Course Details
 This project is following the instruction provided by Carnegie Mellon University's 95702 Distributed Systems course
-Intructor: Prof. Mike McCarthy, Prof. Joe Mertz, Prof. Marty Barrett
+Instructors: Prof. Mike McCarthy, Prof. Joe Mertz, Prof. Marty Barrett
 
 ## Contributor
 Samson Zhang | zhongzha@andrew.cmu.edu
