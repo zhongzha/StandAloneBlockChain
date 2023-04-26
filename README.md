@@ -3,7 +3,7 @@ This project illustrates the tamper-evident design of blockchain technology thro
 
 ## Getting Started
 To get started with the project
-1. Clone the repository: 'git clone https://github.com/zhongzha/StandAloneBlockChain.git'
+1. Clone the repository: 'git clone https://github.com/zhongzha/cmu_BlockChain.git'
 2. Run BlockchainServer.java then BlockchainClient.java under src/main/java folder using a Java IDE e.g. [IntelliJ](https://www.jetbrains.com/idea/).
 
 ## Usage
