@@ -15,7 +15,7 @@ The blockchain is located on the server, while the client drives the menu-driven
 3. View the blockchain.
 4. Corrupt the chain.
 5. Hide the corruption by repairing the chain.
-6. Exit
+6. Exit.
 
 ## Course Details
 This project is following the instruction provided by Carnegie Mellon University's 95702 Distributed Systems course
