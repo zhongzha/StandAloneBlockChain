@@ -3,7 +3,10 @@ This project illustrates the tamper-evident design of blockchain technology thro
 
 ## Getting Started
 To get started with the project
-1. Clone the repository: 'git clone https://github.com/zhongzha/ds_blockchain.git'
+1. Clone the repository: 
+```bash
+git clone https://github.com/zhongzha/ds_blockchain.git
+```
 2. Run BlockchainServer.java then BlockchainClient.java under src/main/java folder using a Java IDE e.g. [IntelliJ](https://www.jetbrains.com/idea/).
 
 ## Usage
